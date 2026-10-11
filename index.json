@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "llama-cpp-binaries",
+  "versions": [
+    {
+      "commit": "0356d5af3d097ee07e17d94581e7b04858d4a755",
+      "tag": "",
+      "parsed_at": "2026-10-11T08:35:05.834769+00:00"
+    }
+  ]
+}
